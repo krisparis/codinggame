@@ -1,3 +1,4 @@
+// https://www.codingame.com/training/medium/teads-sponsored-contest
 // FUNCTIONS - START.
 /////// Utilities - START.
 const removePersonFromArray = function(num, array) {
